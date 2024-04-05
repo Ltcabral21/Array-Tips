@@ -1,2 +1,2 @@
 # Array-Tips
-Codes with problems and their resolutions about ARRAYS
+Codes with problems and their resolutions with ARRAYS
